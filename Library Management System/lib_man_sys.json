@@ -1,0 +1,30 @@
+{
+    "Python Crash Course": {
+        "author": "Eric Matthes",
+        "copies": 5
+    },
+    "JavaScript: The Good Parts": {
+        "author": "Douglas Crockford",
+        "copies": 3
+    },
+    "Clean Code": {
+        "author": "Robert C. Martin",
+        "copies": 4
+    },
+    "The Pragmatic Programmer": {
+        "author": "Andrew Hunt",
+        "copies": 2
+    },
+    "Design Patterns": {
+        "author": "Erich Gamma",
+        "copies": 1
+    },
+    "Design ": {
+        "author": "Erich Gamma",
+        "copies": 4
+    },
+    "Learning Python": {
+        "author": "Mark Lutz",
+        "copies": 3
+    }
+}
